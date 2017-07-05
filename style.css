@@ -1,0 +1,6 @@
+.inside {
+    list-style-type: initial;
+}
+.outside {
+    list-style-type: upper-roman;
+}
